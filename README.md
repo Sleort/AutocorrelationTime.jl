@@ -5,3 +5,5 @@
 [![Coverage Status](https://coveralls.io/repos/Sleort/AutocorrelationTime.jl/badge.svg?branch=master&service=github)](https://coveralls.io/github/Sleort/AutocorrelationTime.jl?branch=master)
 
 [![codecov.io](http://codecov.io/github/Sleort/AutocorrelationTime.jl/coverage.svg?branch=master)](http://codecov.io/github/Sleort/AutocorrelationTime.jl?branch=master)
+
+Based on http://www.stat.unc.edu/faculty/cji/Sokal.pdf
